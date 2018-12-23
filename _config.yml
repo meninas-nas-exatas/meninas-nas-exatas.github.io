@@ -2,7 +2,7 @@
 
 # Base URL
 
-url: "http://blog.adelmofilho.com"   
+url: "https://meninas-nas-exatas.github.io/"   
 baseurl: ""                          
 
 # General
@@ -37,7 +37,7 @@ avatar: "/img/HCO.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Adelmo Filho
-  email: "adelmo.aguiar.filho@gmail.com"
+  email: "meninas.nas.exatas@gmail.com"
   facebook: adelmo.filho.90857  # eg. daattali
   github: adelmofilho    # eg. daattali
   twitter: AdelmoFilho42   # eg. daattali
@@ -79,14 +79,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "blog.adelmofilho.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "meninas-nas-exatas.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-86677156-3"
+google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""

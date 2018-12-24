@@ -35,11 +35,11 @@ avatar: "/img/HCO.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Adelmo Filho
+  name: Meninas nas Exatas
   email: "meninas.nas.exatas@gmail.com"
   facebook: adelmo.filho.90857  # eg. daattali
-  github: adelmofilho    # eg. daattali
-  twitter: AdelmoFilho42   # eg. daattali
+  github: meninas-nas-exatas    # eg. daattali
+  twitter: RLadiesSalvador   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: adelmoaguiarfilho  # eg. daattali
@@ -54,15 +54,15 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
   github: true
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false

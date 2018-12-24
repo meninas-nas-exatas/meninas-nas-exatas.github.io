@@ -16,12 +16,11 @@ encoding: UTF-8                                          # Encoding
 # List of links in the navigation bar
 navbar-links:
   Blog: ""
-  Publications: "publications"
-  ShinyApps: "shiny"
+  R-Ladies Salvador: "https://twitter.com/RLadiesSalvador"
   GAMMA: "http://gamma.ufba.br/"
   About:
-    - Blog: "aboutblog"
-    - Author: "aboutme"
+    - Projeto: "aboutblog"
+    - Equipe: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
